@@ -1,45 +1,6 @@
 
 # 📚 mobilityDCAT-AP SHACL Documentation
 
-## 📖 Table of Contents
-
-### 1. Introduction
-- [What is SHACL and Why Use It?](#what-is-shacl)
-- [Why OWL is Not Enough](#why-owl-is-not-enough)
-- [Open World vs. Closed World](#open-world-vs-closed-world)
-
-### 2. Setup and Tools
-- [SHACL Playgrounds](#shacl-playgrounds)
-- [Java APIs](#java-apis)
-- [Python APIs](#python-apis)
-- [Prefixes Used](#prefixes)
-
-### 3. Shape Documentation
-- [Address Agent Shape](#address-agent-shape)
-- [Agent Shape](#agent-shape)
-- [Assessment Shape](#assessment-shape)
-- [Catalogue Shape](#catalogue-shape)
-- [CatalogRecord Shape](#catalogrecord-shape)
-- [Category Shape](#category-shape)
-- [Dataset Shape](#dataset-shape)
-- [Distribution Shape](#distribution-shape)
-- [Kind Shape](#kind-shape)
-- [LicenseDocument Shape](#licensedocument-shape)
-- [Location Shape](#location-shape)
-- [MobilityDataStandard Shape](#mobilitydatastandard-shape)
-- [QualityAnnotation Shape](#qualityannotation-shape)
-- [RightsStatement Shape](#rightsstatement-shape)
-
-### 4. Resources
-- [Validation Tools](#validation-tools)
-- [External References](#external-references)
-- [Additional Documentation](#additional-documentation)
-
-Would you like me to continue with any specific section or expand this outline further?
-
-
-
-
 # 🔍 Introduction to SHACL
 
 ## 🎯 What is SHACL and Why Use It?
